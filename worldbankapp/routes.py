@@ -10,9 +10,9 @@ from scripts.data import return_figures
 def index():
 
 	# List of countries for filter
-	country_codes = [['Canada','CAN'],['United States','USA'],['Brazil','BRA'],
-	['France','FRA'],['India','IND'],['Italy','ITA'],['Germany','DEU'],
-	['United Kingdom','GBR'],['China','CHN'],['Japan','JPN']]
+	country_codes = [['Colombia','COL'],['Chile','CHL'],['Brazil','BRA'],
+	['Argentina','ARG'],['Ecuador','ECU'],['Paraguay','PRY'],['Pery','PER'],
+	['Uruguay','URY']]
 
 	# Parse the POST request countries list
 	if (request.method == 'POST') and request.form:

@@ -11,7 +11,7 @@ def index():
 
 	# List of countries for filter
 	country_codes = [['Colombia','COL'],['Chile','CHL'],['Brazil','BRA'],
-	['Argentina','ARG'],['Ecuador','ECU'],['Paraguay','PRY'],['Pery','PER'],
+	['Argentina','ARG'],['Ecuador','ECU'],['Paraguay','PRY'],['Peru','PER'],
 	['Uruguay','URY']]
 
 	# Parse the POST request countries list

@@ -33,7 +33,7 @@ Comments were used to assist in walking through the thought process for individu
 
 3. Go to http://127.0.0.1:8000/
 
-The dynamic graphs can be found at the web app.
+The dynamic graphs can be found at the web app. You can check the website online in the following address "https://financialstability-worldbank.onrender.com". The site will load the page after 30-60 seconds. Thank you for your patience :)
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Udacity for the learning path in the DataScientist Course and some of the code that I reused. Otherwise, feel free to use the code here as you would like!
